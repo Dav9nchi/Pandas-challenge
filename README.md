@@ -1,4 +1,4 @@
-                                                            # Pandas-challenge
+# Pandas-challenge
 
 # Description
 In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.

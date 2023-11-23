@@ -49,7 +49,7 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 
 10.two obsevables trends based on the data.
 
-# Guidance. (Step By Step)
+# Guidance (Step By Step)
 1. Click the following link to access the main repository https://github.com/Dav9nchi/pandas-challenge
 2. Read the READ.ME to get informed about the project, Description, intructions how was develop, content & credits.
 3. Click the following link to access the CSV where we analize the data https://github.com/Dav9nchi/pandas-challenge/tree/main/Resources

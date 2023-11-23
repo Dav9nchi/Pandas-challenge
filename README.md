@@ -47,7 +47,7 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 
 9.Scores by School Type   <!-- school performance based on the "School Type". -->
 
-10. 2 obsevables trends based on the data.
+10.two obsevables trends based on the data.
 
 # Guidance. (Step By Step)
 1. Click the following link to access the main repository https://github.com/Dav9nchi/pandas-challenge

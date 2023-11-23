@@ -1,13 +1,13 @@
-                                                        # Pandas-challenge
+                                                            # Pandas-challenge
 
-Description
+# Description
 In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-Instructions
+# Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-                                                            Content Code
+# Content Code
 1. District Summary
     Total number of unique schools
     Total students
@@ -42,20 +42,20 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 9.Scores by School Type   <!-- school performance based on the "School Type". -->
 10. 2 obsevables trends based on the data.
 
-Guidance. (Step By Step)
+# Guidance. (Step By Step)
 1. Click the following link to access the main repository https://github.com/Dav9nchi/pandas-challenge
 2. Read the READ.ME to get informed about the project, Description, intructions how was develop, content & credits.
 3. Click the following link to access the CSV where we analize the data https://github.com/Dav9nchi/pandas-challenge/tree/main/Resources
 4. after you get the CSV files click the following link to get the code https://github.com/Dav9nchi/pandas-challenge/tree/main/PyCitySchools 
 5. Congratulations!! you are in the last step in the processs, Thank you.
 
-Credits
+# Credits
     OpenAI
     AskBCS Learning assitants
     Instructor & Teacher Assistent.
 
-Autor
+# Autor
     David Castano.
 
-Contact info
+# Contact info
 https://www.linkedin.com/in/davidcastanoe/

@@ -1,13 +1,13 @@
-                    Trend Description
-1.one of the conclusions that we can gather from this analysis is
+                              Written analysis
+the First conclusion that we can gather from this analysis is
 Charter School Type have better overall results as Highest-Performing Schools (by % Overall Passing)
-with ranges between %90.5-%91.3 and the District type of school being the one
-with the Bottom Performing Schools (By % Overall Passing) with ranges between %52.9-53.5
+with ranges between % 90.5-% 91.3 and the District type of school being the one
+with the Bottom Performing Schools (By % Overall Passing) with ranges between % 52.9 - 53.5
 considering that the Charter school has as 4 time less the amount of students and 3 times less 
 the total school budget than district type of school.
 
-2.the other conclusion in this analysis could be  
+the second observable trend in this analysis could be  
 the school size range between  small (<1000 students) & Medium (1000-2000 students) 
-has overall better results as % overall passing with a range between %89.8 to %90.6
-compare than a large (2000-5000 students) with an average %58.2 being a big gap as %31.6
+has overall better results as % overall passing with a range between % 89.8 to % 90.6
+compare than a large (2000-5000 students) with an average % 58.2 being a big gap as %31.6
 difference between these 2 mayor porcentage overall passing.

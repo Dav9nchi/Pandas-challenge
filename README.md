@@ -53,8 +53,9 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 1. Click the following link to access the main repository https://github.com/Dav9nchi/pandas-challenge
 2. Read the READ.ME to get informed about the project, Description, intructions how was develop, content & credits.
 3. Click the following link to access the CSV where we analize the data https://github.com/Dav9nchi/pandas-challenge/tree/main/Resources
-4. after you get the CSV files click the following link to get the code https://github.com/Dav9nchi/pandas-challenge/tree/main/PyCitySchools 
-5. Congratulations!! you are in the last step in the processs, Thank you.
+4. after you get the CSV files click the following link to get the code https://github.com/Dav9nchi/pandas-challenge/tree/main/PyCitySchools
+5. Click the following link to get informed by two obsevables trends based on the data https://github.com/Dav9nchi/pandas-challenge/blob/main/Trends%20Description.txt
+6. Congratulations!! you finished the processs, Thank you.
 
 # Credits
     OpenAI

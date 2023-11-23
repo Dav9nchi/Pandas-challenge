@@ -34,12 +34,19 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
     % overall passing (the percentage of students who passed math AND reading)
 
 3.Highest-Performing Schools (by % Overall Passing) <!--Sort the schools by % Overall Passing in descending order -->  
+
 4.Lowest-Performing Schools (by % Overall Passing)  <!--Sort the schools by % Overall Passing in ascending order -->
+
 5.Math Scores by Grade  <!-- the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school. -->
+
 6.Reading Scores by Grade <!-- the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school. -->
+
 7.Scores by School Spending <!-- calculate mean scores per spending range. -->
+
 8.Scores by School Size   <!-- school performance based on school size (small, medium, or large). -->
+
 9.Scores by School Type   <!-- school performance based on the "School Type". -->
+
 10. 2 obsevables trends based on the data.
 
 # Guidance. (Step By Step)
